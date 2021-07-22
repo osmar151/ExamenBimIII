@@ -20,8 +20,8 @@
                     <label class="active" for="first_name3">Password</label>
                 </div>
                 </div>
-                <div class="row">
-                    <div class="orange darken-4">
+                <div class="row orange darken-4">
+                    <div class="input-field col s4">
                         <input class="waves-effect waves-light btn" type="submit" value="Enviar"/>
                     </div>
                 </div>
