@@ -1,4 +1,4 @@
-
+{include file="templates/Cabeceras/header.tpl"}
 
     <div class="container">
         <div class="row">
@@ -30,4 +30,4 @@
         </form>
     </div>
 
-
+{include file="templates/Cabeceras/footer.tpl"}
