@@ -2,8 +2,8 @@
 
     <div class="container">
         <div class="row">
-            <div class="input-field col s12">
-               
+
+             <div class="input-field col s12">
                     <h1 class=" center-align  blue-text">REGISTRO</h1>
                
             </div>
